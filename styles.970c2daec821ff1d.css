@@ -70,6 +70,11 @@
     background-color: var(--maarch-color-success)
 }
 
+:is([style*="color: #135f7f"], [style*="color: rgb(19, 95, 127)"]) {
+    color: #7f3613;
+}
+
+
 /*!
  * Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
