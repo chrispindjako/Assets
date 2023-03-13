@@ -70,9 +70,27 @@
     background-color: var(--maarch-color-success)
 }
 
-.button-row[_ngcontent-pid-c320] .mat-fab[_ngcontent-pid-c320] {
+.button-row .mat-fab {
     border: solid #7f3613 2px !important;
     color: #7f3613 !important;
+}
+
+.basketList .mat-expansion-panel-header-title {
+    color: #7f3613 !important;
+}
+
+.basketList .mat-expansion-panel-header-title {
+    color: #7f133c !important;
+}
+
+.bg-head-content>.mat-card {
+    background: #C4792A !important;
+}
+
+.folderList[_ngcontent-fhf-c553] .mat-expansion-panel-header-title[_ngcontent-fhf-c553] {
+    color: #135f7f;
+    font-size: 14px;
+    font-weight: 500;
 }
 
 /*!
