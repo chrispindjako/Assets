@@ -70,10 +70,10 @@
     background-color: var(--maarch-color-success)
 }
 
-:is([style*="color: #135f7f"], [style*="color: rgb(19, 95, 127)"]) {
-    color: #7f3613;
+.button-row[_ngcontent-pid-c320] .mat-fab[_ngcontent-pid-c320] {
+    border: solid #7f3613 2px !important;
+    color: #7f3613 !important;
 }
-
 
 /*!
  * Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com
