@@ -88,9 +88,7 @@
 }
 
 .folderList .mat-expansion-panel-header-title {
-    color: #7f3613;
-    font-size: 14px;
-    font-weight: 500;
+    color: #7f3613 !important;
 }
 
 /*!
