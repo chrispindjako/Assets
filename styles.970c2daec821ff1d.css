@@ -91,6 +91,43 @@
     color: #7f3613 !important;
 }
 
+.basket-order .mat-form-field-flex {
+    background: #C4792A !important;
+}
+
+p[title='Maarch courrier 2301 Powered by Maarch'] {
+    display: none;
+}
+
+/* 
+.bg-head-content>.mat-card {
+    background: #551a0c !important;
+}
+
+.basket-order .mat-form-field-flex {
+    background: #551a0c !important;
+}
+
+.button-row .mat-button-base {
+    border: 2px solid #551a0c !important;
+    color: #551a0c !important;
+    background: #551a0c !important;
+}
+
+.ascDescTool>.mat-button-base {
+    border: 2px solid #eee !important;
+    color: #551a0c !important;
+    background: #551a0c !important;
+}
+
+.mat-expansion-panel-header-title {
+    color: #551a0c !important;
+}
+
+.bg-head-title {
+    font-size: 20px;
+} */
+
 /*!
  * Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
@@ -9050,38 +9087,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-.bg-head-content>.mat-card {
-    # background: #551a0c !important;
-}
-
-.basket-order .mat-form-field-flex {
-    # background: #551a0c !important;
-}
-
-.button-row .mat-button-base {
-    # border: 2px solid #551a0c !important;
-    #color: #551a0c !important;
-    ;
-    #background: #551a0c !important;
-}
-
-.ascDescTool>.mat-button-base {
-    #border: 2px solid #eee !important;
-    #color: #551a0c !important;
-    #background: #551a0c !important;
-}
-
-.mat-expansion-panel-header-title {
-    #color: #551a0c !important;
-}
-
-p[title='Maarch courrier 2301 Powered by Maarch'] {
-    display: none;
-}
-
-.bg-head-title {
-    #font-size: 20px;
-}
 
 html {
     font-family: sans-serif;
@@ -16798,7 +16803,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\	;
     background-color: #0000;
     border: 1px solid #fff;
     border-radius: 10px
